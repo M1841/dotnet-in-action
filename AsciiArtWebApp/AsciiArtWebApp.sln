@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsciiArtWebApp", "AsciiArtWebApp.csproj", "{EB0430F0-30F6-4C4A-8054-BF83DBE91C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0430F0-30F6-4C4A-8054-BF83DBE91C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0430F0-30F6-4C4A-8054-BF83DBE91C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0430F0-30F6-4C4A-8054-BF83DBE91C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0430F0-30F6-4C4A-8054-BF83DBE91C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A361546D-667B-4AC7-9286-8393AA5B388C}
+	EndGlobalSection
+EndGlobal
