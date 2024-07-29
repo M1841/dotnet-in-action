@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Mihai Mureșan",
+  "classifications": ["Common", "Console"],
+  "name": "Console App with Arguments",
+  "identity": "CmdArgsTemplate",
+  "shortName":"consoleargs",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "CmdArgsTemplate",
+  "preferNameDirectory": true
+}
